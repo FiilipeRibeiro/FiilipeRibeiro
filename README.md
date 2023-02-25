@@ -19,7 +19,7 @@
 
 <picture>
 
-<img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiilipeRibeiro&show_icons=true&theme=dark" />
+<img height="132.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiilipeRibeiro&show_icons=true&theme=dark" />
 
 </picture>
 

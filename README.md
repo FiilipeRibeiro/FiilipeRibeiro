@@ -13,13 +13,13 @@
   srcset="https://github-readme-stats.vercel.app/api?username=FiilipeRibeiro&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
 </picture>
 
 <picture>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiilipeRibeiro&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiilipeRibeiro&show_icons=true&theme=dark" />
 
 </picture>
 

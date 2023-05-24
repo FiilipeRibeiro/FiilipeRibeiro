@@ -1,8 +1,14 @@
-### Olá, Mundo! Eu sou o Filipe Ribeiro 👋
+<h1 align="center">
+    Olá MUNDO!! Eu sou o 
+    <a href=https://www.linkedin.com/in/filipe-ribeiro-caldas-67a836258/>Filipe Ribeiro 😃️</a>
+</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiiliperibeiro&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiiliperibeiro&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fiiliperibeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiiliperibeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ##
 
@@ -26,3 +32,5 @@
   <a href="https://www.linkedin.com/in/filipe-ribeiro-caldas-67a836258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+ ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)

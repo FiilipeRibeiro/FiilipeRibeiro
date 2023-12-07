@@ -1,7 +1,7 @@
-<h1 align="center">
-    Olá MUNDO!! Eu sou o 
-    <a href=https://www.linkedin.com/in/filipe-ribeiro-caldas-67a836258/>Filipe Ribeiro 😃️</a>
-</h1>
+## Olá MUNDO! Sou o Filipe Ribeiro 
+
+- 🌱 Estudando Back End e Front End
+- 📫 Fale comigo no email: Filipecaldas3999@gmail.com
 
 <div align="center">
   <a href="https://github.com/duribeiro">
